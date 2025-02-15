@@ -1,5 +1,6 @@
 pub mod core;
 pub mod crypto;
+pub mod event;
 pub mod accounts;
 pub mod p2p;
 pub mod internal;
